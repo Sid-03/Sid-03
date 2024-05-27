@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidhant Sinha</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on **My Skills**
-
 - 🌱 I’m currently learning **Full Stack Developmment**
 
 - 📫 How to reach me **sidhant.sinha03@gmail.com**
@@ -27,7 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sid-03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sid-03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sid-03&show_icons=true&locale=en&theme=tokyonight" alt="Sid-03" /></p>
 
