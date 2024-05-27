@@ -26,13 +26,7 @@
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sid-03)](https://git.io/streak-stats)
-<br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sid-03" />
-</a>
-<br><br>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sid-03" /></a></p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-03&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p><a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-03&layout=compact&langs_count=8&card_width=320" /></a></p>
