@@ -25,6 +25,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sid-03" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sid-03&show_icons=true&locale=en&theme=tokyonight" alt="Sid-03" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-03&&theme=tokyonight" alt="Sid-03" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sid-03)](https://git.io/streak-stats)
+<br><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sid-03" />
+</a>
+<br><br>
+
+<a href="https://github.com/anuraghazra/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-03&layout=compact&langs_count=8&card_width=320" />
+</a>
