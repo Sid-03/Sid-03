@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sidhant Sinha</h1>
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **My Skills**
 
@@ -27,8 +26,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
 </p>
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sid-03&&theme=xcode)](https://github.com/Sid-03)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sid-03&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sid-03" /></p>
 
