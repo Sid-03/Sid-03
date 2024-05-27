@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sidhant Sinha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-03&label=Profile%20views&color=0e75b6&style=flat" alt="sid-03" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sidhantsinha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidhantsinha03" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
