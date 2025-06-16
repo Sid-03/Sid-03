@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhant Sinha</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Full Stack Developmment**
+- 🌱 I’m currently learning **Full Stack Developmment & Business Analytics**
 
 - 📫 How to reach me **sidhant.sinha03@gmail.com**
 
